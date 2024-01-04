@@ -7,9 +7,10 @@ management, and push notifications, Mama M's Kitchen User App ensures a delightf
 personalized notifications contribute to a user-friendly environment, making it the go-to app for Mama M's Kitchen patrons.
 
 
-
-
-
+![Screenshot_20240104_141150_com makaota mammamskitchen_284x600](https://github.com/makaota/makaota/assets/74915165/6bc43a02-2c77-42f5-a487-281822d10ce5)
+![Screenshot_20240104_141225_com makaota mammamskitchen_284x600](https://github.com/makaota/makaota/assets/74915165/cbddfe43-3e39-40f9-9f67-f7b38d2ef0ab)
+![Screenshot_20240104_141250_com makaota mammamskitchen_284x600](https://github.com/makaota/makaota/assets/74915165/d199b2ae-3dda-4f86-8e07-d0e39d0ae07a)
+![Screenshot_20240104_141353_com makaota mammamskitchen_284x600](https://github.com/makaota/makaota/assets/74915165/210fe42e-3e2c-4c55-a5ff-e1c97b497d30)
 
 
 
