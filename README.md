@@ -8,34 +8,8 @@ It provides highly accurate daily and hourly forecasts, UV index, humidity, wind
 
 Designed with South African users in mind 🇿🇦, Weather Mzansi delivers a clean, smooth, and intuitive experience, whether you’re checking the temperature in Johannesburg or planning a beach day in Cape Town.
 
-# ✨ Features
-🌍 Live Weather Data: Real-time weather updates using a powerful API.
-
-📅 7-Day Forecast: Detailed daily weather outlook with high/low temperatures.
-
-🕐 Hourly Forecasts: Plan your day with hour-by-hour precision.
-
-🔥 UV Index Awareness: Stay safe in the sun with clear UV readings.
-
-🌫️ Visibility and Humidity: Critical weather information at a glance.
-
-🌬️ Wind Speed & Direction: Animated visualizations of wind behavior.
-
-🌘 Sunrise/Sunset Times: Plan mornings and evenings better.
-
-🌓 Light & Dark Theme Support: Automatically adapts to your device’s theme — or manually choose!
-
-📂 Saved Cities: Save and manage your favorite locations.
-
-🧹 Smooth Animations: Animated transitions, swipes, and real-time changes.
-
-🧠 Optimized Architecture: MVVM + Repository Pattern for clean, maintainable code.
-
 ![Samsung Galaxy S21 Ultra Screenshot 1_288x512](https://github.com/user-attachments/assets/0bb1ddf3-60fe-4ac5-b3d4-f304e71d6cd9)
 ![Samsung Galaxy S21 Ultra Screenshot 2_288x512](https://github.com/user-attachments/assets/41db39ff-281c-4097-8df9-ccb9a57859a6)
-![Samsung Galaxy S21 Ultra Screenshot 3_288x512](https://github.com/user-attachments/assets/37386f34-2343-41c7-a380-7cac789ab43b)
-![Samsung Galaxy S21 Ultra Screenshot 4_288x512](https://github.com/user-attachments/assets/feaf8a96-d862-47ea-9d86-1f19b3299074)
-
 
 # Mama M's Kitchen User App
 
