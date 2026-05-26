@@ -6,7 +6,7 @@
 
 <!-- Featured Project Banner Graphic -->
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://google.com">
+  <a href="https://play.google.com/store/apps/details?id=com.makaota.townsquare&hl=en_ZA">
     <img width="512" height="512" alt="Feature Graphic Logo" src="https://github.com/user-attachments/assets/3d7bf974-5d29-4a52-a7b5-dbb143b04dff"  alt="Town Square Ecosystem - Discover & Shop Local" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 
   </a>
@@ -29,7 +29,7 @@
       <td valign="top" style="padding: 15px; border-right: 1px solid #30363d;">
         <p>A location-aware marketplace application designed for consumers to instantly discover local businesses, browse rich product catalogs, track business opening hours, and interact with merchants seamlessly.</p>
         <p>
-          <a href="[https://google.com](https://play.google.com/store/apps/details?id=com.makaota.townsquare&hl=en_ZA)">
+          <a href="(https://play.google.com/store/apps/details?id=com.makaota.townsquare&hl=en_ZA)">
             <img src="https://play.google.com/store/apps/details?id=com.makaota.townsquare&hl=en_ZA" alt="Get it on Google Play" />
           </a>
         </p>
