@@ -29,7 +29,7 @@
       <td valign="top" style="padding: 15px; border-right: 1px solid #30363d;">
         <p>A location-aware marketplace application designed for consumers to instantly discover local businesses, browse rich product catalogs, track business opening hours, and interact with merchants seamlessly.</p>
         <p>
-          <a href="(https://play.google.com/store/apps/details?id=com.makaota.townsquare&hl=en_ZA)">
+          <a href="https://play.google.com/store/apps/details?id=com.makaota.townsquare&hl=en_ZA">
             <img src="https://play.google.com/store/apps/details?id=com.makaota.townsquare&hl=en_ZA" alt="Get it on Google Play" />
           </a>
         </p>
