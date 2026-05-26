@@ -1,3 +1,78 @@
+<!-- Town Square Ecosystem Overview -->
+<h2>🏙️ The Town Square Ecosystem</h2>
+<p>
+  A dual-app Android ecosystem designed to bridge the gap between local commerce and regional consumers. Built entirely using modern Android development guidelines, Jetpack Compose, clean architecture, and reactive workflows.
+</p>
+
+<!-- Featured Project Banner Graphic -->
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://google.com">
+    <img width="512" height="512" alt="Feature Graphic Logo" src="https://github.com/user-attachments/assets/3d7bf974-5d29-4a52-a7b5-dbb143b04dff"  alt="Town Square Ecosystem - Discover & Shop Local" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+
+  </a>
+</div>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center">
+        <h3>📱 Town Square (Consumer App)</h3>
+      </th>
+      <th width="50%" align="center">
+        <h3>💼 Town Square Manager (Vendor App)</h3>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- Consumer Description & Links -->
+      <td valign="top" style="padding: 15px; border-right: 1px solid #30363d;">
+        <p>A location-aware marketplace application designed for consumers to instantly discover local businesses, browse rich product catalogs, track business opening hours, and interact with merchants seamlessly.</p>
+        <p>
+          <a href="https://google.com">
+            <img src="https://play.google.com/store/apps/details?id=com.makaota.townsquare&hl=en_ZA" alt="Get it on Google Play" />
+          </a>
+        </p>
+        <strong>⚡ Key Capabilities:</strong>
+        <ul>
+          <li>GPS location tracking & smart address filtering</li>
+          <li>Categorized catalog with real-time text search</li>
+          <li>Direct click-to-call & WhatsApp integration</li>
+          <li>Offline caching using a Room Database</li>
+        </ul>
+        <code>ID: com.makaota.townsquare</code>
+      </td>
+      <!-- Manager Description & Links -->
+      <td valign="top" style="padding: 15px;">
+        <p>A back-office storefront dashboard enabling local entrepreneurs and administrators to create digital store listings, optimize inventory assets, customize business hours, and track storefront health.</p>
+        <p>
+          <img src="https://shields.io" alt="Status" />
+        </p>
+        <strong>⚡ Key Capabilities:</strong>
+        <ul>
+          <li>Vendor profile & listing configuration dashboards</li>
+          <li>Inventory catalog creator with image compression</li>
+          <li>Structured Firebase cloud database operations</li>
+          <li>Strict backup & secure device path controls</li>
+        </ul>
+        <code>ID: com.makaota.townsquare.manager</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h3>🏗️ Architecture & Shared Engineering Principles</h3>
+<p>Both systems emphasize code scalability, testability, and high performance across any device tier:</p>
+<ul>
+  <li><strong>UI Architecture:</strong> 100% declarative UI built with <strong>Jetpack Compose</strong> and <strong>Material Design 3</strong>.</li>
+  <li><strong>State & Logic:</strong> Strictly decoupled <strong>MVVM</strong> (Model-View-ViewModel) supported by <strong>Kotlin Flow</strong> and async Coroutines.</li>
+  <li><strong>Dependency Injection:</strong> Enforced using <strong>Dagger Hilt</strong> for streamlined constructor injection and clean modules.</li>
+  <li><strong>Data Hydration:</strong> Resilient abstract data layer driven by the <strong>Repository Pattern</strong> for structured business rule mapping.</li>
+</ul>
+
+
 # 🌦️ Weather Mzansi App
 
 Your trusted daily weather companion — built for South Africa, powered by real-time data and Jetpack Compose.
